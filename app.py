@@ -49,7 +49,7 @@ if st.button("🚀 Generate Excel Table"):
 st.sidebar.markdown("---")
 st.sidebar.markdown("---")
 st.sidebar.info("This application uses the Spotify API to collect data and potentially the Songlink/Odesli API (if integrated) to find additional links.")
-st.sidebar.markdown("Developed by Sticky.")
+st.sidebar.markdown("Developed by Stiki.")
 
 # Instructions for running (will appear in the terminal):
 # 1. Ensure the streamlit library is installed: pip install streamlit
